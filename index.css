@@ -123,11 +123,27 @@ button:hover {
     text-align: left;
     text-align: center;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 18px;
     font-family: 'Lucida Sans Unicode', sans-serif;
 }
 
-
+/*beathedestiny*/
+#spaceproject{
+    text-align: center;
+    color: #dacde2;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+    font-weight: bold;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.flex-container img{
+    width: 100%;
+}
+.flex-container p{
+    padding-top: 10%;
+}
 
 /*screensize*/
 
